@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToxicXY
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Lua; C#; HTML/CSS and soon javascript
+- 🌱 I'm currently learning Lua 🖥️, C# 💻, HTML/CSS 🌐, and will soon start with JavaScript 📜.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: McDonald's is better then Burger King
 
